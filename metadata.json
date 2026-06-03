@@ -1,0 +1,6 @@
+{
+  "name": "OBSIDIAN - Craft Coffee",
+  "description": "A refined, ultra-premium, dark aesthetic showcase for Obsidian Craft Coffee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
